@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 350px;
+}
+
+#Logo {
+    width: 800px;
+    height: 563px;
+}
+
+.cars {
+    display: inline;
+}
+
+#mycarousel {
+    background-color: red;
+}
+
+#mycarousel img {
+    height: 700px;
+    width: 1050px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+#sg{
+padding-top: 20px;    
+height: 820px; 
+background: linear-gradient(#ff0000 0%, #ff00b3 100%)    
+}
+#intro{
+padding-top: 20px;    
+height: 820px;
+background: linear-gradient(#ff0000 0%, #ff00b3 100%)     
+}
+#gg{
+padding-top: 20px;    
+height: 820px;
+background: linear-gradient(#ff0000 0%, #ff00b3 100%)     
+}
+.menu {
+   margin-top: 0px;
+    top: 0px;
+    background: white;
+    z-index: 10;
+    cursor: pointer;
+    position: fixed;
+    width: 100%;
+}
+
+.link {
+   display: inline;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.link:hover {
+    background-color:#85edff;
+}
+html{
+scroll-behavior: smooth;    
+}
+#pichw{
+height: 300px;
+width: 350px;    
+}
+
